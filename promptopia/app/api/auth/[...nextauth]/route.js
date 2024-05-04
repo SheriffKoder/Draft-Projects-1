@@ -23,6 +23,7 @@ const handler = NextAuth({
             clientSecret: process.env.GOOGLE_CLIENT_SECRET,
         })
     ],
+    secret: process.env.NEXT_PUBLIC_SECRET,
     callbacks: {
         async session({ session }) {
             const sessionUser = await User.findOne({email: session.user.email});
