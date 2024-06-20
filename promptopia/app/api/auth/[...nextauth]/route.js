@@ -3,9 +3,6 @@
 import NextAuth from "next-auth/next";
 import GoogleProvider from "next-auth/providers/google";
 
-// console.log("clientId "+process.env.GOOGLE_ID,
-//     " GOOGLE_CLIENT_SECRET "+process.env.GOOGLE_CLIENT_SECRET);
-
 //02.03
 import { connectToDB } from "@utils/database";
 
