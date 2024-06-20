@@ -14,4 +14,4 @@ This repo contains follow along projects done for the purpose of learning.
 - The component styling was made through the "styled-components" third party library which allows for each component to have a file describing its css styling.
 - [[ Tutorial's link ]](https://www.youtube.com/watch?v=6bxWgYfN4CQ) [[ Live Demo ]](https://react-movie-app-pink-tau.vercel.app/)
 
-![React-Movie-App screenshot](screenshot2.png)
+![React-Movie-App screenshot](screenshot3.png)
