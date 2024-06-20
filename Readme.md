@@ -9,6 +9,7 @@ This repo contains follow along projects done for the purpose of learning.
 ##
 
 **React-Movie-App** | React.js • Styled-Components • TMDB API
+
 ![React-Movie-App screenshot](screenshot2.png)
 - Displaying the latest movies in theaters with their description and thumbnails with -the help of the The Movie Database (TMDB) API.
 - The project emphasizes on the use of separate small components to be combined on a one major component.
